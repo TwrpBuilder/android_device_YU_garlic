@@ -31,4 +31,4 @@ deploy:
   on:
     tags: false
     repo: TwrpBuilder/android_device_YU_garlic
-    branch: travis
+    branch: master
